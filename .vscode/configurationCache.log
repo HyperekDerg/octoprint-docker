@@ -1,0 +1,1 @@
+{"buildTargets":["build","build-minimal","clean","clean-minimal","down","e2e","setup-multi-arch","test","test-minimal","up"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
